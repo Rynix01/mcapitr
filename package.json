@@ -1,0 +1,49 @@
+{
+  "name": "mcapitr",
+  "version": "1.0.0",
+  "description": "A Node.js wrapper for the MCAPI.TR service, which provides various Minecraft server information",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rynix01/mcapitr.git"
+  },
+  "keywords": [
+    "minecraft",
+    "server",
+    "status",
+    "api",
+    "mcapi",
+    "mcapitr",
+    "server-status",
+    "minecraft-server",
+    "minecraft-api",
+    "minecraft-server-status",
+    "minecraft-server-info",
+    "minecraft-motd",
+    "minecraft-favicon",
+    "minecraft-banner",
+    "server-query",
+    "java-edition",
+    "bedrock-edition",
+    "legacy-server",
+    "game-server",
+    "server-monitor"
+  ],
+  "author": "Rynix01",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Rynix01/mcapitr/issues"
+  },
+  "homepage": "https://github.com/Rynix01/mcapitr#readme",
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "files": [
+    "index.js",
+    "src/",
+    "LICENSE",
+    "README.md"
+  ],
+  "types": "src/index.d.ts"
+}
